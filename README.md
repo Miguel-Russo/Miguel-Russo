@@ -70,6 +70,8 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de **Ciência da Computaçã
 
 ---
 
-
+## 📫 Como me encontrar?  
+- **LinkedIn:** [Miguel Russo Lorente](www.linkedin.com/in/miguel-russo-lorente-722a72313)  
+- **E-mail:** miguelrusso1819@gmail.com  
 
 ---
