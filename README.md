@@ -3,6 +3,7 @@
 Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de **Ciência da Computação** na **Universidade Municipal de São Caetano do Sul (USCS)**. Além de ser aluno, atuo como **monitor técnico de TI**, onde contribuo diretamente para o suporte técnico em 13 laboratórios de informática, além de atender professores, alunos e equipes administrativas da universidade.  
 
 <div>
+  <a href="https://github.com/Miguel-Russo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Russo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Russo&layout=compact&langs_count=16&theme=dracula"/>
 </div>
