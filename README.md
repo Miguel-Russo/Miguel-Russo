@@ -4,7 +4,6 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de **Ciência da Computaçã
 
 <div>
   <a href="https://github.com/Miguel-Russo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Russo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Russo&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
