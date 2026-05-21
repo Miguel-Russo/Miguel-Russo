@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Miguel Russo!  
 
-Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de **Ciência da Computação** na **Universidade Municipal de São Caetano do Sul (USCS)**. Além de ser aluno, atuo como **monitor técnico de TI**, onde contribuo diretamente para o suporte técnico em 13 laboratórios de informática, além de atender professores, alunos e equipes administrativas da universidade.  
+Bem-vindo(a) ao meu perfil no GitHub! Sou Estudante de Ciência da Computação (5º semestre), atuou como estagiário em engenharia de requisitos para sistemas embarcados, com foco em levantamento, análise, modelagem e documentação de requisitos técnicos. Reconhecido com bolsa por mérito acadêmico em razão do desempenho universitário e atualmente desenvolvendo uma iniciação científica, que contribui para o aprimoramento de competências em pesquisa e análise crítica. Além disso, participou do hackathon de Harvard realizado em 2025, ampliando sua experiência em colaboração, inovação e resolução de problemas em ambientes de alta performance.  
 
 <div>
 <a href="https://github.com/Miguel-Russo">
